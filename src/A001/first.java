@@ -4,7 +4,7 @@ public class first {
 
 	public static void main(String[] args) {
 
-		System.out.println("ABCWWWABC");
+		System.out.println("ABCWABC"+"드디어되네");
 	}
 
 }
