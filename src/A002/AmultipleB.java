@@ -4,7 +4,7 @@ package A002;
 
 import java.util.Scanner;
 
-public class AmultipleB2 {
+public class AmultipleB {
 
 	public static void main(String[] args) {
 
